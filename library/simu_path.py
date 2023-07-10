@@ -25,22 +25,3 @@ path12 = "/gpfsdsmnt/ipsl/dods/pub/rgzi002/IPSLCM6/DEVT/piControl/CM65v6-LR-pi-J
 pathmsft_3_4_12 = "/gpfswork/rech/omr/romr004/MLspinup/CM65v406/MSFT"
 
 path13 = "/gpfsdsmnt/ipsl/dods/pub/ues27zx/IPSLCM6/DEVT/piControl/CM65Work-Spinup-Namelist-1/OCE/Analyse/TS_MO"
-
-"""
-#ONLY MSFT
-
-#path14 = "/gpfsdsmnt/ipsl/dods/pub/ues27zx/Namelist-1_UV-grids"
-
-#path15?  = "/gpfswork/rech/omr/uen17sn/BDD/ssh/simu2_370" 
-
-#path9 = "/gpfsdsmnt/ipsl/dods/pub/ues27zx/IPSLCM6/DEVT/piControl/CM65Work-Spinup-Namelist-2/OCE/Analyse/TS_MO"
-
-#SIMU 204
-path10 = "/gpfsdsmnt/ipsl/dods/pub/rgzi002/IPSLCM6/DEVT/piControl/CM65v420-LR-CdL-pi-01/OCE/Analyse/TS_MO"
-
-
-path16 = "/gpfsdsmnt/ipsl/dods/pub/rgzi002/IPSLCM6/DEVT/piControl/CM65v42rcNew-LR-pi-03/OCE/Analyse/TS_MO"
-#/gpfsdsmnt/ipsl/dods/pub/rgzi002/IPSLCM6/DEVT/piControl/CM65v6-LR-pi-JZ-03/OCE/Analyse/TS_MO
-path17 = "/gpfsdsmnt/ipsl/dods/pub/rgzi002/IPSLCM6/DEVT/piControl/CM62-LR-pi-JZ-01/OCE/Analyse/TS_MO"
-
-"""
